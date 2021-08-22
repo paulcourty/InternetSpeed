@@ -17,7 +17,7 @@ I wrote this script when going to l'Ile d'Yeu (a cool island in France, definite
 Wifi test in Yeu, France:
 
 - **Download Speed** is particularly unreliable 
-- **Latency** is too high to make smooth video calls
+- **Latency** is too high to make video calls smooth
 
 <br> 
 
