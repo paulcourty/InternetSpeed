@@ -14,7 +14,12 @@ I wrote this script when going to l'Ile d'Yeu (a cool island in France, definite
 
 <br>
 
-Wifi test in Yeu, France (particularly unreliable, the latency is too high to make smooth video calls):
+Wifi test in Yeu, France:
+
+- Download Speed is particularly unreliable 
+- Latency is too high to make smooth video calls
+
+<br> 
 
 ![Wifi Yeu](https://github.com/paulcourty/InternetSpeed/blob/main/Graphs%20&%20Data/Wifi%20Yeu.png)
 
@@ -22,7 +27,11 @@ Wifi test in Yeu, France (particularly unreliable, the latency is too high to ma
 
 Wifi test in Bath, UK:
 
+<br>
+
 ![Wifi Bath](https://github.com/paulcourty/InternetSpeed/blob/main/Graphs%20&%20Data/Wifi%20Bath.png)
+
+<br>
 
 
 
